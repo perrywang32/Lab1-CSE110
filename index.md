@@ -1,15 +1,15 @@
-#Perry's User Page
+# Perry's User Page
 ** Hi everyone welcome to my page. Below are some of my personal interests! **
-##Interests
+## Interests
 
 - Valorant     
 - Sports
 - Plushies
 - Food
 
-##Code Instructions
+## Code Instructions
 To create headings, use `#` to create headings, with having more `#`s meaning a smaller heading size!
-##Valorant Agent Rankings
+## Valorant Agent Rankings
 
 1. Jett
 2. Reyna
@@ -29,15 +29,15 @@ To create headings, use `#` to create headings, with having more `#`s meaning a 
 16. Kay/O
 [Jett Picture](Jett1.png)
 [Reyna Picture](Reyna.jpg)
-##Favorite Valorant Quote
+## Favorite Valorant Quote
 In the words of Raze while on the opposing team: 
 > Fire in the hole (Sounds like Fire in de ho)
-##List for things to accomplish hopefully in the next year
+## List for things to accomplish hopefully in the next year
 - [x] Start brushing resume
 - [x] Start leetcode questions
 - [ ] Apply for internships
 - [ ] Build more connections
 - [ ] Have a good time meanwhile
-##Links
+## Links
 This site was built using [Visual Studio Code] (https://code.visualstudio.com/).
 For more Valorant Info, use [Valorant main webpage] (https://playvalorant.com/en-us/).
