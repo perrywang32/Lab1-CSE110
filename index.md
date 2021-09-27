@@ -38,6 +38,7 @@ In the words of Raze while on the opposing team:
 - [ ] Apply for internships
 - [ ] Build more connections
 - [ ] Have a good time meanwhile
+- [ ] Build great friendships and memories
 ## Links
 This site was built using [Visual Studio Code] (https://code.visualstudio.com/).
 For more Valorant Info, use [Valorant main webpage] (https://playvalorant.com/en-us/).
